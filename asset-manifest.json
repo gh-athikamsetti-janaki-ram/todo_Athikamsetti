@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/todo_Athikamsetti/static/css/main.04cd09c2.css",
+    "main.js": "/todo_Athikamsetti/static/js/main.e669bc23.js",
+    "index.html": "/todo_Athikamsetti/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.04cd09c2.css",
+    "static/js/main.e669bc23.js"
+  ]
+}
